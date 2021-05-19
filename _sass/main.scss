@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap');
 
-$base-color: #3a3a46;
+$base-color: #444c56;
 $text-color-main: #ffffff;
 $text-color-heading: #6c63ff;
 $footer-color: #343449;
@@ -11,6 +11,10 @@ $footer-color: #343449;
 
 img {
   width: 100%;
+}
+
+a {
+  color: $text-color-main;
 }
 
 .button {
@@ -180,11 +184,22 @@ body {
   padding: 2em;
 }
 
+// section-post
+.section-post {
+  padding: 2em;
+  .details {
+    padding-bottom: 2em;
+    span {
+      color: #777;
+    }
+  }
+}
+
 @media only screen and (min-width: 600px) {
   .section  {
     padding: 2em 4em;
   }
-  .section-blog, .section-about{
+  .section-blog, .section-about, .section-post{
     padding: 2em 6em;
   }
 }
@@ -193,7 +208,7 @@ body {
   .section {
     padding: 2em 5em 0 5em;
   }
-  .section-blog {
+  .section-blog, .section-post {
     padding: 2em 8em;
   }
   .section-about {
@@ -236,7 +251,7 @@ body {
   .section {
     padding: 4em 10em 0 10em;
   }
-  .section-blog, .section-about {
+  .section-blog, .section-about, .section-post {
     padding: 2em 10em;
   }
 }
@@ -245,7 +260,7 @@ body {
   .section {
     padding: 4em 12em 4em 12em;
   }
-  .section-blog, .section-about {
+  .section-blog, .section-about, .section-post {
     padding: 2em 12em;
   }
   .hero {

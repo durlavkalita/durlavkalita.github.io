@@ -59,7 +59,9 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      author: "durlavk"
   - scope:
       path: ""
     values:
       layout: "default"
+  
