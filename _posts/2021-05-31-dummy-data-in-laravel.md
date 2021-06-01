@@ -6,6 +6,8 @@ categories: laravel database
 permalink: '/post/dummy-data-in-laravel'
 ---
 
+Recently found out about using seeder to create fake data in laravel. Infact it can be used with factory 🧑‍🏭.
+
 Dummy or fake data generation is an important part of testing database or visualizing data in browser. Laravel being a popular framework has a few ways to create dummy data. Now you can manually fill the database for testing but filling up data after every fresh migration is just too slow and you can do better than that. Let’s discuss two ways you might want to create dummy data.
 
 - [Factory](https://laravel.com/docs/8.x/database-testing#defining-model-factories) -

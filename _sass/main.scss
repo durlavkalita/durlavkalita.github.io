@@ -15,6 +15,12 @@ img {
 
 a {
   color: $text-color-main;
+  text-decoration: underline;
+}
+
+code {
+  background-color: #777;
+  padding: 1px;
 }
 
 .button {
@@ -190,7 +196,7 @@ body {
   .details {
     padding-bottom: 2em;
     span {
-      color: #777;
+      color: #999;
     }
   }
 }

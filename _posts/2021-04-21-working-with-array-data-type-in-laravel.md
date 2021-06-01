@@ -6,6 +6,8 @@ categories: laravel
 permalink: '/post/working-with-array-data-type-in-laravel'
 ---
 
+There is a list of things to learn and write. Hold on there is an array of things 😉ℹ️.
+
 People love to work with array data types mostly due to it’s simplicity and ability store multiple data of same type in one variable. Let’s take a look at how array data type can be used to store data in a laravel application.
 
 Laravel doesn’t have array as available column types. In order to store array data we have to make use of json column type and laravel casts functionality. Here is a step wise implementation of that.

@@ -6,6 +6,8 @@ categories: laravel websockets
 permalink: '/post/real-time-with-laravel-websockets'
 ---
 
+Know what websockets are? Ask your friend through whatsapp and you just used websockets 🎩☎️.
+
 Laravel is the most popular php framework and rightfully so. Using laravel and it’s MVC model to create a simple blog or web app is very easy to learn and intuitive in nature. But how to implement a real time, live-updating user interface in laravel. That’s where laravel-websockets comes in.
 
 In order to work with real time projects in laravel you have to have a basic knowledge of [broadcasting](https://laravel.com/docs/8.x/broadcasting) and [events](https://laravel.com/docs/8.x/events).
