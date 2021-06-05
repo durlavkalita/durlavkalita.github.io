@@ -6,7 +6,7 @@ categories: flutter
 permalink: '/post/what-stateful-widget-is-made-of'
 ---
 
-Stateful widget and it's lifecycle.  ♻️🤦‍♂️
+Stateful widget and it's lifecycle ♻️.
 
 In previous post I described about stateful widgets. It consists of two classes. The `StatefulWidget` class and the `State` class. As stateful widget have state so they have some lifecycle method. Lifecycle in general terms is an order in which different part of the code will get executed. So, let's see the statefull widget's lifecycle methods.
 
