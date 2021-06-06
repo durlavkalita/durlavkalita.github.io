@@ -2,7 +2,7 @@
 layout: post
 title: "State in flutter"
 date: 2021-06-05 11:54:49 +0530
-categories: github
+categories: flutter
 permalink: '/post/state-in-flutter'
 ---
 
