@@ -9,7 +9,7 @@ title: Home
 <div class="hero">
   <div class="content">
     <h1>Hi, I'm Durlav.</h1>
-    <p>Web artisan and chess enthusiastic. I drink and i know things🍺. Welcome to my blog.
+    <p>Web artisan and chess enthusiastic. I code💻 and I learn things. Welcome to my blog🍺.
     </p>
   </div>
   <div class="hero-image">
@@ -21,10 +21,25 @@ title: Home
 
 <div class="section latest-post">
   <div class="content">
+    <h1><span>Featured Posts</span></h1>
+    <ul>
+      {% for post in site.data.featured %}
+        <li>
+          <div>
+            <div><h3><a href="{{ post.url }}">{{ post.title }}</a></h3></div>
+            <div><p>
+              {% for category in post.categories %}
+                <span class="button">{{ category }}</span>
+              {% endfor %}
+            </p>
+            </div>
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
     <h1><span>My Latest Posts</span></h1>
     <ul>
-      {% assign latestPosts = site.posts %} <!-- first 10 posts logic -->
-      {% for post in latestPosts %}
+      {% for post in site.posts limit:5 %}
         <li>
           <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
           <p>
