@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Persisting data in laravel"
+title: "Persisting data in flutter"
 date: 2021-07-09 11:54:49 +0530
 categories: flutter data-persistance
 permalink: '/post/persisting-data-in-flutter'
