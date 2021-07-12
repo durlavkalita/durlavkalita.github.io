@@ -3,7 +3,7 @@ layout: post
 title: "Blockchain with solidity"
 date: 2021-07-06 11:54:49 +0530
 categories: blockchain solidity
-permalink: '/post/bloackchain-with-solidity'
+permalink: '/post/blockchain-with-solidity'
 ---
 
 Learning solidity to build smart contract and work on blockchain 🟥🟦.
