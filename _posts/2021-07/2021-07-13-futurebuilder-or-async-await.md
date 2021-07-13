@@ -6,7 +6,7 @@ categories: flutter
 permalink: '/post/futurebuilder-or-async-await'
 ---
 
-FutureBuilder and async await to work with api responses and future data.
+FutureBuilder and async await to work with api responses and future data 📱.
 
 Working with api data most of the time we have to wait for the response from one endpoint and then perform some function on return data. Usually for these process js has promises and async await. In flutter as well using async await is a viable option but another option is the flutter's `FutureBuilder` widget.
 
