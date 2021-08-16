@@ -1,19 +1,23 @@
-- title: A nice box shadow
-  url: /post/a-nice-box-shadow
-  categories: [css] 
-
 - title: Real time with laravel-websockets
   url: /post/real-time-with-laravel-websockets
-  categories: [laravel, websockets]
+  image: https://miro.medium.com/max/700/0*3TisXXQXXWsGxkc0
+  categories: [laravel]
+  date: Apr 28, 2021
+  read: 4 min
+  excerpt: Laravel is the most popular php framework and rightfully so. Using laravel and it’s MVC model to create a simple blog or web app is very easy to learn and intuitive in nature. But how to implement a real time, live-updating user interface in laravel. That’s where laravel-websockets comes in.
 
-- title: github guide
-  url: /post/github-guide
-  categories: [github] 
+- title: Working with array data type in Laravel
+  url: /post/working-with-array-data-type-in-laravel
+  image: https://miro.medium.com/max/369/1*Zb5uLBp121eccZsCmhGSmQ.png
+  categories: [laravel]
+  date: Apr 21, 2021
+  read: 2 min
+  excerpt: People love to work with array data types mostly due to it’s simplicity and ability store multiple data of same type in one variable. Let’s take a look at how array data type can be used to store data in a laravel application.
 
-- title: State in flutter
-  url: /post/state-in-flutter
-  categories: [flutter] 
-
-- title: Mobx is great
-  url: /post/mobx-is-great
-  categories: [flutter, state-management, mobx]
+- title: Webview in flutter
+  url: /post/webview-in-flutter
+  image: https://miro.medium.com/max/700/0*35DmrvVq-RPS6plN
+  categories: [flutter]
+  date: Jun 29, 2021
+  read: 2 min
+  excerpt: Being a developer one always has to lookout for the shortcuts out there. the famous quote “Good coders borrow, great coders steal” doesn’t plainly instruct you to steal code but instructs to code smarter. Let’s see how you can work smart with flutter.

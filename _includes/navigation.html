@@ -1,9 +1,22 @@
-<div class="nav-container">
-  <nav>
-    <ul>
-      {% for item in site.data.navigation %}
-        <li><a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a></li>
-      {% endfor %}
-    </ul>
+<div class="bg-gray-100">
+    
+  <nav class="bg-white shadow">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex justify-between h-16">
+        <div class="flex">
+          <div class="flex space-x-8">
+            {% for item in site.data.navigation %}
+            <a 
+            href="{{ item.link }}" 
+            class="border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-700 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium"
+            {% if page.url == item.link %} style="color: #6C63FF;" {% endif %}>
+              {{ item.name }}
+            </a>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
   </nav>
+
 </div>

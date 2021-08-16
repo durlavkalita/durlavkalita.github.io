@@ -3,24 +3,53 @@ layout: default
 title: Blog
 ---
 
+<div class="bg-white">
+  <div class="px-4 py-12 max-w-7xl mx-auto sm:px-6 lg:px-8">
+   
+    <div class="divide-y divide-gray-200">
+      <div class="pt-6 pb-8 space-y-2 md:space-y-5">
+        <h1 class="text-3xl font-extrabold text-gray-900 tracking-tight sm:text-4xl md:text-[4rem] md:leading-[3.5rem]">Latest</h1>
+        <p class="text-lg text-gray-500">All the latest posts from the blog.</p>
+      </div>
+      <ul class="divide-y divide-gray-200">
+        {% for post in paginator.posts %}
+        <li class="py-12">
+          <article class="space-y-2 xl:grid xl:grid-cols-4 xl:space-y-0 xl:items-baseline">
+            <dl>
+              <dt class="sr-only">Published on</dt>
+              <dd class="text-base font-medium text-gray-500">
+                <time>{{ post.date | date: "%-d %B %Y"}}</time>
+              </dd>
+            </dl>
+            <div class="space-y-5 xl:col-span-3">
+              <div class="space-y-6">
+                <h2 class="text-2xl font-bold tracking-tight">
+                  <a class="text-gray-900" href={{post.url}}>{{post.title}}</a>
+                </h2>
+                <div class="prose max-w-none text-gray-500">
+                  <div class="prose max-w-none">
+                    <p>{{post.excerpt}}</p>
+                  </div>
+                </div>
+              </div>
+              <div class="text-base font-medium">
+                <a class="text-teal-600 hover:text-teal-700" aria-label="Read &quot;Introducing Tailwind UI Ecommerce&quot;" href={{post.url}}>Read more →</a>
+              </div>
+            </div>
+          </article>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+
+  </div>
+</div>
+
 <div class="section-blog">
-  <ul>
-    {% for post in paginator.posts %}
-      <li>
-        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-        <p>
-          <span style="margin-right: 1em;">{{ post.date | date: "%-d %B %Y"}}</span>
-          {% for category in post.categories %}
-            <span class="button">{{ category }}</span>
-          {% endfor %}
-          {{ post.excerpt }}
-        </p>
-      </li>
-    {% endfor %}
-  </ul>
 
   
 <!-- pagination -->
+<hr class="mb-8"/>
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
   {% if paginator.previous_page %}
@@ -31,7 +60,7 @@ title: Blog
 
   {% for page in (1..paginator.total_pages) %}
     {% if page == paginator.page %}
-      <span class="webjeda">{{ page }}</span>
+      <span class="">{{ page }}</span>
     {% elsif page != 1 %}
       <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
     {% else %}
@@ -46,4 +75,3 @@ title: Blog
   {% endif %}
 </div>
 {% endif %}
-</div>
