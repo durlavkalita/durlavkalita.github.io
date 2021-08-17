@@ -3,7 +3,7 @@ layout: post
 title:  "Redesigning the site"
 date:   2021-08-17 11:54:49 +0530
 categories: blog tailwind
-permalink: '/post/redesigning the site'
+permalink: '/post/redesigning-the-site'
 ---
 
 I have been meaning to redesign the site for quite some time now. But it is always a pain going through dribbble or template providing websites. There are so much option and although they may look easy to implement it will take some good amount of time to adjust it and code them for my site.
