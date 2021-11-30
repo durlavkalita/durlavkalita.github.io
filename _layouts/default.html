@@ -1,17 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ site.lang | default: " en-US" }}">
+
 <head>
-  <meta charset="UTF-8">
+  <meta charset='utf-8'>
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ page.title }}</title>
-  <!-- font awesome -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
-  <!-- tailwind -->
-  <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="/assets/css/styles.css">
-  {% feed_meta %}
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  {% include head-custom.html %}
+
   {% seo %}
+
   <!-- favicon -->
   <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32x32.png">
@@ -23,11 +21,36 @@
   <!-- google site verification -->
   <meta name="google-site-verification" content="YrIr1W_6KJ8njMw50wde8CTPN6KC_HawT3nZxeQxDvo" />
 </head>
+
 <body>
-  <div class="page-container">
-    {% include navigation.html %}
-    {{ content }}
-    {% include footer.html %}
+
+  <header>
+    <div class="container">
+      <a id="a-title" href="{{ '/' | relative_url }}">
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+      </a>
+      <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+
+      <section id="downloads">
+        {% if site.show_downloads %}
+        <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
+        <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
+        {% endif %}
+        {% for item in site.data.navigation %}
+        <a href="{{ item.link }}" class="btn" {% if page.url==item.link %} style="color: #6C63FF;" {% endif %}>
+          {{ item.name }}
+        </a>
+        {% endfor %}
+        <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+      </section>
+    </div>
+  </header>
+
+  <div class="container">
+    <section id="main_content">
+      {{ content }}
+    </section>
   </div>
 </body>
+
 </html>
