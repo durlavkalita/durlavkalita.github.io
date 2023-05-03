@@ -3,7 +3,7 @@ layout: post
 title: "FLutter folder structure"
 date: 2021-06-15 11:54:49 +0530
 categories: flutter
-permalink: '/post/flutter-folder-structure'
+permalink: "/post/flutter-folder-structure"
 ---
 
 Organizing dart files in flutter app the right way 💻📁.
@@ -20,4 +20,4 @@ In dart we have to transform json data to dart classes to use them as json is no
 
 For firebase or database integration a folder like `lib/services` might come in handy.
 
-As I have not yet used state management on flutter till now I won't comment on how that should be structured but I will write about state managment once I get the hang of it.
+As I have not yet used state management on flutter till now I won't comment on how that should be structured but I will write about state management once I get the hang of it.
