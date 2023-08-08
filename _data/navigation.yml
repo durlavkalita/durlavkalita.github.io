@@ -2,5 +2,7 @@
   link: /
 - name: Blog
   link: /blog/
-- name: Portfolio
-  link: /portfolio/
+- name: Projects
+  link: /projects/
+- name: About
+  link: /about/
