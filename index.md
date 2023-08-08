@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi, This is Durlav. I am an Engineer | Web Developer. I work on fullstack projects as a profession and hobby. Besides that I play chess(at a decent level) and counter-strike(not silver), watch anime and travel.
+Hi, This is Durlav. I am an Engineer && Web Developer. I work on fullstack projects as a profession and hobby. Besides that I play chess(at a decent level) and counter-strike(not silver), watch anime and travel.
 
 Welcome to my portfolio/blog.
 
