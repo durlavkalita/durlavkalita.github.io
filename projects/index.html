@@ -3,4 +3,19 @@ layout: default
 title: Projects
 ---
 
-Working on it
+My projects
+
+<div>
+  {% for item in site.data.projects %}
+
+  <div style="display: flex">
+    <div style="flex: 1; padding: 0 10px">
+      {{item.name}} {{item.description}}
+    </div>
+    <div style="flex: 1; padding: 0 10px">
+      <img src={{"../assets/images/" + item.preview}} alt="project 1" />
+    </div>
+  </div>
+
+  {% endfor %}
+</div>
