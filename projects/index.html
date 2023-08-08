@@ -3,17 +3,17 @@ layout: default
 title: Projects
 ---
 
-My projects
-
 <div>
   {% for item in site.data.projects %}
 
   <div style="display: flex">
     <div style="flex: 1; padding: 0 10px">
-      {{item.name}} {{item.description}}
+      {{item.name}}
+      <small>tags: <em>{{ item.tech | join: "</em> - <em>" }}</em></small>
+      {{item.description}}
     </div>
     <div style="flex: 1; padding: 0 10px">
-      <img src={{"../assets/images/" + item.preview}} alt="project 1" />
+      <img src="../assets/images/{{item.preview}}" alt="project 1" />
     </div>
   </div>
 

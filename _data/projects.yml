@@ -1,8 +1,8 @@
 - name: tweety
   description: A twitter clone
-  tech: laravel mysql tailwindcss
+  tech: [laravel, mysql, tailwindcss]
   preview: tweety.gif
 - name: vuemovie
   description: A movie database
-  tech: vuejs tailwindcss rest
+  tech: [vuejs, tailwindcss, rest]
   preview: vuemovie.png
