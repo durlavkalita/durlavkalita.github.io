@@ -1,8 +1,17 @@
 - name: tweety
-  description: A twitter clone
+  link: https://github.com/durlavkalita/tweety
   tech: [laravel, mysql, tailwindcss]
+  description: A twitter clone
   preview: tweety.gif
+
+- name: odinbook
+  link: https://githubcom/durlavkalita/odinbook_react
+  tech: [nodejs, reactjs, mongodb, tailwindcss]
+  description: A facebook clone. Final project of odin project curriculum
+  preview: odinbook.png
+
 - name: vuemovie
-  description: A movie database
+  link: https://github.com/durlavkalita/vuemovie
   tech: [vuejs, tailwindcss, rest]
+  description: A movie database
   preview: vuemovie.png

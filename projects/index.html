@@ -8,9 +8,11 @@ title: Projects
 
   <div style="display: flex">
     <div style="flex: 1; padding: 0 10px">
-      {{item.name}}
+      <p style="font-weight: bold">
+        <a href="{{item.link}}">{{item.name}}</a>
+      </p>
       <small>tags: <em>{{ item.tech | join: "</em> - <em>" }}</em></small>
-      {{item.description}}
+      <p>{{item.description}}</p>
     </div>
     <div style="flex: 1; padding: 0 10px">
       <img src="../assets/images/{{item.preview}}" alt="project 1" />
