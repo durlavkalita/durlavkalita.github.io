@@ -4,8 +4,6 @@ layout: default
 
 ## Welcome to another page
 
-{{site.categories}}
-
 _yay_
 
 [back](/)
