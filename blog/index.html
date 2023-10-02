@@ -4,7 +4,7 @@ title: Blog
 ---
 
 <div class="">
-  <div class="" style="display: flex; justify-content: end">
+  <div class="">
     <div class="">
       <ul class="">
         {% for post in paginator.posts %}
@@ -22,19 +22,12 @@ title: Blog
                   </div>
                 </div>
               </div>
-              <div class="">
+              <div class="" style="display: flex; justify-content: end">
                 <a class="" href="{{post.url}}">Read more →</a>
               </div>
             </div>
           </article>
         </li>
-        {% endfor %}
-      </ul>
-    </div>
-    <div>
-      <ul>
-        {% for category in site.categories %}
-        <li>{{category}}</li>
         {% endfor %}
       </ul>
     </div>
