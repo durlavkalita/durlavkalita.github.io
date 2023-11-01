@@ -14,6 +14,8 @@ Alright coming to the topic, I added search functionality this time. I had to do
 
 First thing is to create a search.json file and add below mentioned lines there. It will create a json list of all the posts so that they can be searched later.
 
+{% raw %}
+
 ```
 ---
 layout: none
@@ -30,6 +32,8 @@ layout: none
   {% endfor %}
 ]
 ```
+
+{% end raw %}
 
 Then add an input element for searching like -
 
