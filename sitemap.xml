@@ -8,345 +8,455 @@
 
 
 <url>
-  <loc>https://durlavkalita.github.io/</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/blog.html</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/blog/</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/work.html</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/projects/</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/about.html</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<!-- <url>
-  <loc>https://durlavkalita.github.io/post/a-nice-box-shadow</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/about/</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/real-time-with-laravel-websockets</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/real-time-with-laravel-websockets</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/github-guide</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/working-with-array-data-type-in-laravel</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/state-in-flutter</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/passportjs-authentication</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/mobx-is-great</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://durlavkalita.github.io/2021/07/19/flutter-notification-and-permissions.html</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://durlavkalita.github.io/post/reducing-loss-in-linear-regression</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://durlavkalita.github.io/post/drawers-and-tabs</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://durlavkalita.github.io/post/token-and-openzeppelin</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://durlavkalita.github.io/post/image-classification-using-keras</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://durlavkalita.github.io/blog/page2/</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/using-pocketbase</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/blog/page3/</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/is-a-dev</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/blog/page4/</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/a-new-project</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/blog/page5/</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/portfolio-at-home</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/blog/page6/</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/dockerizing-odinbook</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/blog/page7/</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/blog/page2/</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/blog/page8/</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/blog/page3/</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/blog/page9/</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/blog/page4/</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/blog/page10/</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/blog/page5/</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/blog/page11/</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/blog/page6/</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/blockchain-with-solidity-2</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/blog/page7/</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://durlavkalita.is-a.dev/blog/page8/</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://durlavkalita.is-a.dev/blog/page9/</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://durlavkalita.is-a.dev/blog/page10/</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://durlavkalita.is-a.dev/blog/page11/</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://durlavkalita.is-a.dev/blog/page12/</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://durlavkalita.is-a.dev/blog/page13/</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://durlavkalita.is-a.dev/blog/page14/</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://durlavkalita.is-a.dev/blog/page15/</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://durlavkalita.is-a.dev/post/site-rework-and-odinbook</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/futurebuilder-or-async-await</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/odinbook-and-flask</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/blockchain-with-solidity-1</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/hosting-with-render-and-other-updates</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/slopes-and-sigmoids</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/learning-typescript</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/persisting-data-in-flutter-2</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/automating-with-python</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/persisting-data-in-flutter</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/its-working</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/laravel-sanctum-api</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/begin-again</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/json-server</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/ready-set-go</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/blockchain-with-solidity</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/ode-to-2021</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/3d-with-threejs-2</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/in-comes-ubuntu</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/3d-with-threejs</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/xmpp-protocol</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/flutter-fcm</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/trying-out-pygame</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/laravel-vue-spa</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/auth-using-jwt</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/github-copilot</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/redesigning-the-site</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/flutter-splashscreen</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/reducing-loss-in-linear-regression</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/webview-in-flutter</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/drawers-and-tabs</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/python-sudoku-solver</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/token-and-openzeppelin</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/vue-laravel-and-everything-inbetween-3</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/image-classification-using-keras</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/vue-laravel-and-everything-inbetween-2</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/blockchain-with-solidity-2</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/stick-to-one-stack</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/futurebuilder-or-async-await</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/vue-laravel-and-everything-inbetween</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/blockchain-with-solidity-1</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/flutter-and-json</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/slopes-and-sigmoids</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/vuejs-and-laravel-2</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/persisting-data-in-flutter-2</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/vuejs-and-laravel</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/persisting-data-in-flutter</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/mobx-and-provider</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/laravel-sanctum-api</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/a-worthy-admin-panel</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/json-server</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/chartjs-is-love</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/blockchain-with-solidity</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/working-with-charts</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/3d-with-threejs-2</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/flutter-folder-structure</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/3d-with-threejs</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/tailwind-for-the-win</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/flutter-fcm</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/resources-for-learning</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/laravel-vue-spa</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/conways-game-of-life</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/github-copilot</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/anaconda-as-python-interpreter</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/flutter-splashscreen</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/whats-nuxt</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/webview-in-flutter</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/flutter-state-management-with-provider</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/python-sudoku-solver</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/fetching-in-flutter</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/vue-laravel-and-everything-in-between-3</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/a-great-design-tool</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/vue-laravel-and-everything-in-between-2</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/flutter-navigation</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/stick-to-one-stack</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/what-stateful-widget-is-made-of</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/vue-laravel-and-everything-in-between</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/decoding-stateful-widget</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/flutter-and-json</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/making-sense-of-stateless-widget</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/vuejs-and-laravel-2</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/dummy-data-in-laravel</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/vuejs-and-laravel</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/a-blog</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/mobx-and-provider</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://durlavkalita.github.io/post/working-with-array-data-type-in-laravel</loc>
-  <lastmod>2021-08-09T03:48:49+00:00</lastmod>
+  <loc>https://durlavkalita.is-a.dev/post/mobx-is-great</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
- -->
+<url>
+  <loc>https://durlavkalita.is-a.dev/post/a-worthy-admin-panel</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://durlavkalita.is-a.dev/post/chartjs-is-love</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://durlavkalita.is-a.dev/post/working-with-charts</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://durlavkalita.is-a.dev/post/flutter-folder-structure</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://durlavkalita.is-a.dev/post/tailwind-for-the-win</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://durlavkalita.is-a.dev/post/resources-for-learning</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://durlavkalita.is-a.dev/post/conways-game-of-life</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://durlavkalita.is-a.dev/post/anaconda-as-python-interpreter</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://durlavkalita.is-a.dev/post/whats-nuxt</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://durlavkalita.is-a.dev/post/flutter-state-management-with-provider</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://durlavkalita.is-a.dev/post/fetching-in-flutter</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://durlavkalita.is-a.dev/post/a-great-design-tool</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://durlavkalita.is-a.dev/post/flutter-navigation</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://durlavkalita.is-a.dev/post/state-in-flutter</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://durlavkalita.is-a.dev/post/github-guide</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://durlavkalita.is-a.dev/post/what-stateful-widget-is-made-of</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://durlavkalita.is-a.dev/post/decoding-stateful-widget</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://durlavkalita.is-a.dev/post/making-sense-of-stateless-widget</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://durlavkalita.is-a.dev/post/dummy-data-in-laravel</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://durlavkalita.is-a.dev/post/a-blog</loc>
+  <lastmod>2023-11-01T03:05:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
 
 </urlset>
