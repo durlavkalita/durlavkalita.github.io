@@ -26,7 +26,7 @@ First thing is to create a search.json file and add below mentioned lines there.
 } {% unless forloop.last %},{% endunless %}
 {% endfor %}
 ]
-{% end raw %}
+{% endraw %}
 
 Then add an input element for searching like -
 
