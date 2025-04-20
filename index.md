@@ -2,15 +2,15 @@
 layout: default
 ---
 
-Hi, This is Durlav. I am an Engineer && Web Developer. I work on fullstack projects as a profession and hobby. Besides that I play chess(at a decent level) and counter-strike(not silver), watch anime and travel.
+Hi, I am Durlav, Engineer && Developer.
 
 Welcome to my portfolio/blog.
 
 ### What I am learning now:
 
 1.  dsa
-2.  Web dev
-3.  What's a healthy diet
+2.  python
+3.  javascript
 
 ### Some of my posts:
 
@@ -23,7 +23,3 @@ Welcome to my portfolio/blog.
 - [github](https://github.com/durlavkalita)
 - [Medium](https://durlavkalita.medium.com/)
 - [LinkedIn](https://www.linkedin.com/in/durlavkalita/)
-
-As you have scrolled so far, here is a ~~funny~~ image for you.
-
-![Oh! You found an easter 🥚](https://source.unsplash.com/400x300/?funny)
